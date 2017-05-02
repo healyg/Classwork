@@ -5,7 +5,7 @@
 % preferred direction of the neuron. The thirteen stimuli were each 
 % presented 184 times. Each stimulus began at time 0 and continued for 256 
 % ms. Recordings continued until 512 ms after the beginning of the stimulus. 
-% The array has the dimensions 256×13×184. The first dimension is time in 2 ms 
+% The array has the dimensions 256Ã—13Ã—184. The first dimension is time in 2 ms 
 % bins, the second dimension motion direction, the third dimension the 
 % repeated presentations.
 % 
@@ -74,7 +74,7 @@ hold off
 %% Part 2 
 % 
 % Compute and plot the mutual information between cumulative spike count 
-% and motion direction as a function of time. If you’d like to check your 
+% and motion direction as a function of time. If youâ€™d like to check your 
 % work, this neuron was published in Osborne et al 2004, Figure 3C. 
 % 
 
